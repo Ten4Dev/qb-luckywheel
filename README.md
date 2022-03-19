@@ -6,10 +6,9 @@ https://discord.gg/m3VAqGeEGZ
 
 - Luckywheel: (peek to spin the luckywheel with $5000 a V.I.P membership) 
 
-**[preview](https://streamable.com/ucv48w)
+[preview](https://streamable.com/ucv48w)
 
-**[source](https://github.com/Sn0wBiT/esx_tpnrp_luckywheel)
-
+[source](https://github.com/Sn0wBiT/esx_tpnrp_luckywheel)
 
 
 
